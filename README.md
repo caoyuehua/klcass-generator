@@ -1,1 +1,1 @@
-# klcassgenerator
+# klcass-generator
